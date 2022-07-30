@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **React**
 
-- 👨‍💻 All of my projects are available at [my github profile](my github profile)
+- 👨‍💻 All of my projects are available at my **github profile**
 
 - 📫 How to reach me **scofreparr@gmail.com**
 
