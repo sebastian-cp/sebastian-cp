@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastián Cofré</h1>
 <h3 align="center">A passionate frontend developer from Chile</h3>
 
-- 📚 I am currently studying at **Inacap**
+- 📚 I'm currently studying my third year of systems engineering in **INACAP**
 
 - 🌱 I’m currently learning **React, Git and Mongodb**
 
