@@ -3,7 +3,7 @@
 
 - 🏛️ I'm currently studying my third year of systems engineering in **INACAP**
 
-- 📚 I graduated as a back-end developer from **OracleNextEducation**
+- 📚 I graduated as a back-end developer from **OracleNextEducation - G5**
 
 - 🌱 I’m currently learning **Linux**
 
