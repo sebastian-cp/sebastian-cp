@@ -3,9 +3,9 @@
 
 - 📚 I'm currently studying my third year of systems engineering in **INACAP**
 
-- 🌱 I’m currently learning **React, Git and Mongodb**
+-  I graduated as a back-end developer from **OracleNextEducation**
 
-- 🤝 I’m looking for help with **React**
+- 🌱 I’m currently learning **Linux**
 
 - 👨‍💻 All of my projects are available at my **GitHub profile**
 
